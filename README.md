@@ -23,10 +23,6 @@ All tables are connected through the `show_id` field, except for `rating_descrip
 
 ## 📁 Tableau Dashboard
 
-### 🛠️ Tableau Public Link: 
-
-[Netflix Analysis](https://public.tableau.com/app/profile/chloe.doan/viz/Netflix_17516218459510/overview)
-
 ### 🔍 Overview
 <img width="1383" height="822" alt="Screenshot 2025-07-27 at 8 24 46 AM" src="https://github.com/user-attachments/assets/535ea6ca-c67b-4541-a6c3-e01509ee8139" />
 
